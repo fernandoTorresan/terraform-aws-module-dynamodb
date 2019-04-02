@@ -1,3 +1,12 @@
+## DynamoDB
+
+Módulo que prove a criação de uma tabela DynamoDB.
+
+## Examples
+
+[DynamoDB](../../examples/dynamodb)
+
+
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Inputs
 
